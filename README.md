@@ -1,16 +1,16 @@
-## Hi there 👋
+# Rashmidu Sewwandi
 
-<!--
-**rashmidusr-pixel/rashmidusr-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
+Hello! My name is Rashmidu Sewwandi. I am 22 years old and currently pursuing a degree in Software Engineering. I am passionate about developing innovative software solutions and constantly improving my skills in technology. 
 
-Here are some ideas to get you started:
+### Interests
+- Software development
+- Web and mobile application development
+- Machine learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Goals
+- To become a proficient software engineer
+- To contribute to open-source projects
+- To work on exciting tech solutions that can make a difference
+
+Thank you for visiting my profile!
